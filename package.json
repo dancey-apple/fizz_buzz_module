@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "name": "fizz_buzz_module",
+  "version": "1.0.0",
+  "description": "Fizz Buzz function",
+  "main": "fizz_buzz.js",
+  "scripts": {
+    "run": "run",
+    "test": "fizzbuzz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancey-apple/fizz_buzz_module.git"
+  },
+  "keywords": [
+    "fizz",
+    "buzz"
+  ],
+  "author": "Dancey-Apple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dancey-apple/fizz_buzz_module/issues"
+  },
+  "homepage": "https://github.com/dancey-apple/fizz_buzz_module#readme",
+  "dependencies": {
+    "console-log-colors": "^0.5.0",
+    "jest": "^29.7.0"
+  }
+}
